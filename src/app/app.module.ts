@@ -19,12 +19,7 @@ import { AngularFireAuthModule } from 'angularfire2/auth';
 import { GooglePlus } from '@ionic-native/google-plus';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyAc9Tt8pQQF3ntu2Tz66iUKl_fXHtdhIyc',
-  authDomain: 'firestarter-96e46.firebaseapp.com',
-  databaseURL: 'https://firestarter-96e46.firebaseio.com',
-  storageBucket: 'firestarter-96e46-vision',
-  messagingSenderId: '581326886241',
-  projectId: 'firestarter-96e46'
+ // your config
 }
 
 
